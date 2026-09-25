@@ -1,0 +1,6 @@
+{
+  "name": "Fraud Shield AI",
+  "description": "Insurance Fraud Detection & Decision System with SHAP explainability, fraud ring link analysis, and dynamic risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
